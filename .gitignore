@@ -1,0 +1,50 @@
+# Môi trường ảo
+venv/
+env/
+ENV/
+
+# Các file Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Các file mô hình
+*.h5
+*.hdf5
+*.keras
+*.pb
+*.tflite
+
+# Các file log và cache
+*.log
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Các file IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Các file đồ thị và hình ảnh
+training_history.png 
