@@ -1,5 +1,4 @@
 # Môi trường ảo
-venv/
 env/
 ENV/
 
@@ -21,14 +20,12 @@ parts/
 sdist/
 var/
 wheels/
-*.egg-info/
 .installed.cfg
 *.egg
 
 # Các file mô hình
 *.h5
 *.hdf5
-*.keras
 *.pb
 *.tflite
 
